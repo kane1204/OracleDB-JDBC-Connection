@@ -1,0 +1,22 @@
+﻿eid,date,message
+1,20/12/2019 20:40,Event complete: BACSPAYRDRCT
+2,20/12/2019 20:40,"Number of records processed: 66, number of templates updated: 5, number of bene accounts updated: 3, number of errors: 0"
+3,20/12/2019 20:39,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+4,20/12/2019 20:39,Event complete: BACSPAYRDRCT
+5,20/12/2019 20:39,"Number of records processed: 168, number of templates updated: 6, number of bene accounts updated: 10, number of errors: 0"
+6,20/12/2019 20:37,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+7,20/12/2019 20:37,Event complete: BACSPAYRDRCT
+8,20/12/2019 20:37,"Number of records processed: 191, number of templates updated: 1, number of bene accounts updated: 0, number of errors: 0"
+9,20/12/2019 20:36,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+10,20/12/2019 20:35,"Number of records processed: 191, number of templates updated: 2, number of bene accounts updated: 5, number of errors: 0"
+11,20/12/2019 20:35,Event complete: BACSPAYRDRCT
+12,20/12/2019 20:34,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+13,20/12/2019 20:34,"Number of records processed: 1, number of templates updated: 0, number of bene accounts updated: 0, number of errors: 0"
+14,20/12/2019 20:34,Event complete: BACSPAYRDRCT
+15,20/12/2019 20:34,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+16,20/12/2019 20:34,Event complete: BACSPAYRDRCT
+17,20/12/2019 20:34,"Number of records processed: 113, number of templates updated: 25, number of bene accounts updated: 5, number of errors: 0"
+18,20/12/2019 20:33,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
+19,20/12/2019 20:33,Event complete: BACSPAYRDRCT
+20,20/12/2019 20:33,"Number of records processed: 191, number of templates updated: 0, number of bene accounts updated: 0, number of errors: 0"
+21,20/12/2019 20:31,"Starting event: BACSPAYRDRCT on Manager: EM_1, LRE: LRE_1"
